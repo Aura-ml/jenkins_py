@@ -1,6 +1,6 @@
 import sys
 import pac
-from mod import Voiture, Humain, Garage, PasDeGarageError, PasDeVoitureError, FizzBuzz
+from pac.mod import Voiture, Humain, Garage, PasDeGarageError, PasDeVoitureError, FizzBuzz
 import unittest
 from unittest.mock import Mock
 
